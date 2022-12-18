@@ -1,0 +1,7 @@
+Verifique sempre se o arquivo BancoDeDados.json está sempre na mesma pasta que o arquivo executável FourSeasoning.jar.
+Se isso não aconter um erro será exibido.
+
+Para testar o projeto no netbeans o arquivo BancoDeDados.json deve estar na pasta raiz do projeto.
+
+Caso aconteça algum erro com a API json-simple, clique com o botão direito em Bibliotecas, vá em propriedades e remova o 
+json-simple-1.1.1.jar. Depois denovo com o botão direito em Bibliotecas, adicione o jar do json-simple-1.1.1.jar.

@@ -1,0 +1,920 @@
+{
+    "cardapios": {
+        "outono": [
+            {
+                "preco": 18.9,
+                "numPrato": 1,
+                "tempoPreparo": 40,
+                "nome": "Risoto de brócolis",
+                "descricao": "Risoto de brócolis com bife de filé mignon (contém leite ou derivados)"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 2,
+                "tempoPreparo": 90,
+                "nome": "Canelone de berinjela",
+                "descricao": "Canelone de berinjela com molho à bolonhesa (contém leite ou derivados)"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 3,
+                "tempoPreparo": 25,
+                "nome": "Omelete de batata doce",
+                "descricao": "Omelete com recheio de batata doce"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 4,
+                "tempoPreparo": 60,
+                "nome": "Creme de abóbora com cenoura",
+                "descricao": "Creme de abóbora com cenoura"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 5,
+                "tempoPreparo": 60,
+                "nome": "Lasanha vegetariana",
+                "descricao": "Lasanha de brócolis e cenoura (contém leite ou derivados)"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 6,
+                "tempoPreparo": 90,
+                "nome": "Almôndegas veganas",
+                "descricao": "Almôndegas de berinjela e batata doce"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 7,
+                "tempoPreparo": 60,
+                "nome": "Escondidinho de batata doce",
+                "descricao": "Escondidinho de batata doce com frango cremoso (contém leite ou derivados)"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 8,
+                "tempoPreparo": 60,
+                "nome": "Mandioca recheada",
+                "descricao": "Mandioca recheada com presunto e legumes"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 9,
+                "tempoPreparo": 0,
+                "nome": "Almondega ao Sugo",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 10,
+                "tempoPreparo": 0,
+                "nome": "Escondidinho de carne",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 11,
+                "tempoPreparo": 0,
+                "nome": "Quibe Assado",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 16.9,
+                "numPrato": 12,
+                "tempoPreparo": 0,
+                "nome": "Pernil ao Molho chutney",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 19.9,
+                "numPrato": 13,
+                "tempoPreparo": 0,
+                "nome": "Carne moída com calabresa",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 14,
+                "tempoPreparo": 0,
+                "nome": "Assado de Carne",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 15,
+                "tempoPreparo": 0,
+                "nome": "Carne moída",
+                "descricao": "descreva"
+            }
+        ],
+        "primavera": [
+            {
+                "preco": 15.9,
+                "numPrato": 1,
+                "tempoPreparo": 0,
+                "nome": "Lasanha de frango",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 2,
+                "tempoPreparo": 0,
+                "nome": "Lasanha a Bolonhesa",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 3,
+                "tempoPreparo": 0,
+                "nome": "Frango Cremoso",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 4,
+                "tempoPreparo": 0,
+                "nome": "Risoto de brócolis",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 14.9,
+                "numPrato": 5,
+                "tempoPreparo": 0,
+                "nome": "Lagarto ao molho escuro",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 11.9,
+                "numPrato": 6,
+                "tempoPreparo": 0,
+                "nome": "Macaronada",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 7,
+                "tempoPreparo": 0,
+                "nome": "Pernil ao molho de Alecrim",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 8,
+                "tempoPreparo": 0,
+                "nome": "Frango xadrez",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 11.9,
+                "numPrato": 9,
+                "tempoPreparo": 0,
+                "nome": "Empadão Goiano",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 21.9,
+                "numPrato": 10,
+                "tempoPreparo": 0,
+                "nome": "Peixe a Gomes de Sá",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 16.9,
+                "numPrato": 11,
+                "tempoPreparo": 0,
+                "nome": "Carne do sol com mandioca",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 12,
+                "tempoPreparo": 0,
+                "nome": "Refogado de lentilha e rabanete",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 14.9,
+                "numPrato": 13,
+                "tempoPreparo": 0,
+                "nome": "Empadão de legumes",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 14,
+                "tempoPreparo": 0,
+                "nome": "Bife de panela",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 15,
+                "tempoPreparo": 0,
+                "nome": "Filé de frango",
+                "descricao": "descreva"
+            }
+        ],
+        "inverno": [
+            {
+                "preco": 20.9,
+                "numPrato": 1,
+                "tempoPreparo": 0,
+                "nome": "Filé de frango com ervas",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 2,
+                "tempoPreparo": 0,
+                "nome": "Feijoada",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 3,
+                "tempoPreparo": 0,
+                "nome": "Isca de carne",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 4,
+                "tempoPreparo": 0,
+                "nome": "Mix de batata sauté",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 5,
+                "tempoPreparo": 0,
+                "nome": "Filé de frango a pizzaiolo",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 6,
+                "tempoPreparo": 0,
+                "nome": "Moqueca vegetariana",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 16.9,
+                "numPrato": 7,
+                "tempoPreparo": 0,
+                "nome": "Escondidinho de carne seca",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 8,
+                "tempoPreparo": 0,
+                "nome": "Strogonoff de grão de soja",
+                "descricao": "Strogonoff feito com grãos de soja (prato vegetariano)"
+            },
+            {
+                "preco": 16.9,
+                "numPrato": 9,
+                "tempoPreparo": 0,
+                "nome": "Strogonoff de frango",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 20.9,
+                "numPrato": 10,
+                "tempoPreparo": 0,
+                "nome": "Strogonoff de carne",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 19.9,
+                "numPrato": 11,
+                "tempoPreparo": 0,
+                "nome": "Carne ao Cury",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 12,
+                "tempoPreparo": 0,
+                "nome": "frango cremoso",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 13,
+                "tempoPreparo": 0,
+                "nome": "Frango em cubo acebolado",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 14.9,
+                "numPrato": 14,
+                "tempoPreparo": 0,
+                "nome": "Copa Lombo suino",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 15,
+                "tempoPreparo": 0,
+                "nome": "Hamburguer",
+                "descricao": "Hamburger de carne com salada e queijo"
+            }
+        ],
+        "verao": [
+            {
+                "preco": 18.9,
+                "numPrato": 1,
+                "tempoPreparo": 0,
+                "nome": "Risoto de brócolis",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 2,
+                "tempoPreparo": 0,
+                "nome": "Cachoro quente na chapa",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 3,
+                "tempoPreparo": 0,
+                "nome": "Cuzcuz temperado",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 4,
+                "tempoPreparo": 0,
+                "nome": "Carne do sol",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 18.9,
+                "numPrato": 5,
+                "tempoPreparo": 0,
+                "nome": "Carne Cozida",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 12.9,
+                "numPrato": 6,
+                "tempoPreparo": 0,
+                "nome": "Tutu de feijão com aveia",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 14.9,
+                "numPrato": 7,
+                "tempoPreparo": 0,
+                "nome": "Filé de Frango grelhado",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 12.9,
+                "numPrato": 8,
+                "tempoPreparo": 0,
+                "nome": "Frango grelhado",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 19.9,
+                "numPrato": 9,
+                "tempoPreparo": 0,
+                "nome": "Strogonoff de grão de bico",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 17.9,
+                "numPrato": 10,
+                "tempoPreparo": 0,
+                "nome": "Almôndega ao sugo",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 16.9,
+                "numPrato": 11,
+                "tempoPreparo": 0,
+                "nome": "Carne cozida",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 15.9,
+                "numPrato": 12,
+                "tempoPreparo": 0,
+                "nome": "Galinhada",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 13.9,
+                "numPrato": 13,
+                "tempoPreparo": 0,
+                "nome": "canelone de berinjela",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 11.9,
+                "numPrato": 14,
+                "tempoPreparo": 0,
+                "nome": "Macaronada",
+                "descricao": "descreva"
+            },
+            {
+                "preco": 21.9,
+                "numPrato": 15,
+                "tempoPreparo": 0,
+                "nome": "Peixe a Gomes de Sá",
+                "descricao": "descreva"
+            }
+        ]
+    },
+    "mesas": [
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 1,
+            "estimativaEspera": 40,
+            "qtdCadeiras": 2
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 2,
+            "estimativaEspera": 40,
+            "qtdCadeiras": 2
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 3,
+            "estimativaEspera": 40,
+            "qtdCadeiras": 2
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 4,
+            "estimativaEspera": 40,
+            "qtdCadeiras": 2
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 5,
+            "estimativaEspera": 40,
+            "qtdCadeiras": 2
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 6,
+            "estimativaEspera": 40,
+            "qtdCadeiras": 2
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 7,
+            "estimativaEspera": 90,
+            "qtdCadeiras": 4
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 8,
+            "estimativaEspera": 90,
+            "qtdCadeiras": 4
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 9,
+            "estimativaEspera": 90,
+            "qtdCadeiras": 4
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 10,
+            "estimativaEspera": 90,
+            "qtdCadeiras": 4
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 11,
+            "estimativaEspera": 120,
+            "qtdCadeiras": 8
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 12,
+            "estimativaEspera": 120,
+            "qtdCadeiras": 8
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 13,
+            "estimativaEspera": 120,
+            "qtdCadeiras": 8
+        },
+        {
+            "area": "salão",
+            "disponibilidade": false,
+            "numMesa": 14,
+            "estimativaEspera": 180,
+            "qtdCadeiras": 12
+        },
+        {
+            "area": "salão",
+            "disponibilidade": true,
+            "numMesa": 15,
+            "estimativaEspera": 180,
+            "qtdCadeiras": 12
+        }
+    ],
+    "contas": [
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(62) 96862-9887",
+            "idConta": 1,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Premium",
+            "cpf": "06171171522",
+            "nome": "Pedro Guilherme",
+            "saldo": 491.45,
+            "pago": true,
+            "email": "pg@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(62) 97683-8346",
+            "idConta": 2,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Standard",
+            "cpf": "38168320328",
+            "nome": "João Grilo",
+            "saldo": 287.93,
+            "pago": true,
+            "email": "joao.g@hotmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(44) 99278-2823",
+            "idConta": 3,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Basic",
+            "cpf": "67742546752",
+            "nome": "Francisco",
+            "saldo": 824,
+            "pago": true,
+            "email": "francisco@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(75) 99786-5137",
+            "idConta": 4,
+            "mesa": 0,
+            "genero": "f",
+            "categoria": "Premium",
+            "cpf": "07315922121",
+            "nome": "Marta",
+            "saldo": 1250.92,
+            "pago": true,
+            "email": "fulano@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(62) 98071-5215 ",
+            "idConta": 5,
+            "mesa": 0,
+            "genero": "f",
+            "categoria": "Standard",
+            "cpf": "21123866627",
+            "nome": "Cristiane",
+            "saldo": 892.83,
+            "pago": true,
+            "email": "fulano@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(84) 98407-1725",
+            "idConta": 6,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Basic",
+            "cpf": "18693610678",
+            "nome": "Pedro Asis",
+            "saldo": 128.32,
+            "pago": true,
+            "email": "fulano@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(61) 98738-1218",
+            "idConta": 7,
+            "mesa": 0,
+            "genero": "f",
+            "categoria": "Standard",
+            "cpf": "38463089356",
+            "nome": "Cleide Linhares",
+            "saldo": 983,
+            "pago": true,
+            "email": "fulano@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(61) 99911-1719",
+            "idConta": 8,
+            "mesa": 0,
+            "genero": "f",
+            "categoria": "Basic",
+            "cpf": "74180431556",
+            "nome": "Marilia Ribeiro",
+            "saldo": 210,
+            "pago": true,
+            "email": "fulano@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(61) 98455-5382",
+            "idConta": 9,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Premium",
+            "cpf": "19202122399",
+            "nome": "Gabriel Barbosa",
+            "saldo": 899,
+            "pago": true,
+            "email": "fulano@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(61) 98778-4844",
+            "idConta": 10,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Standard",
+            "cpf": "53102434029",
+            "nome": "Caze",
+            "saldo": 500,
+            "pago": true,
+            "email": "caze@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "senha123",
+            "telefone": "(92) 99127-6350",
+            "idConta": 11,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Basic",
+            "cpf": "44278124147",
+            "nome": "Matheus Brasileiro",
+            "saldo": 1983,
+            "pago": true,
+            "email": "matui@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "2",
+            "telefone": "2",
+            "idConta": 12,
+            "mesa": 0,
+            "genero": "m",
+            "categoria": "Premium",
+            "cpf": "2",
+            "nome": "Leo",
+            "saldo": 1904.0,
+            "pago": true,
+            "email": "leo@gmail.com"
+        },
+        {
+            "fatura": 0,
+            "senha": "1",
+            "telefone": "21",
+            "idConta": 13,
+            "mesa": 0,
+            "genero": "o",
+            "categoria": "Basic",
+            "cpf": "1",
+            "nome": "w",
+            "saldo": 1111,
+            "pago": true,
+            "email": "1"
+        }
+    ],
+    "funcionarios": [
+        {
+            "senha": "1",
+            "telefone": "(64) 97183-8325",
+            "ponto": "2022-09-04T19:12:24.770136700",
+            "genero": "m",
+            "salario": 7500,
+            "cpf": "1",
+            "bancoHoras": 0,
+            "nome": "Anton Ego",
+            "cargo": "gerente",
+            "email": "ego.anton@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "2",
+            "telefone": "(95)98485-2801",
+            "ponto": "2022-09-02T22:06:34.009277300",
+            "genero": "m",
+            "salario": 5000,
+            "cpf": "2",
+            "bancoHoras": 10,
+            "nome": "Remy Rat",
+            "cargo": "chef",
+            "email": "remy@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(91)98988-6677",
+            "ponto": "2022-09-02T10:45:55.948353600",
+            "genero": "f",
+            "salario": 4000,
+            "cpf": "83357764237",
+            "bancoHoras": 5,
+            "nome": "Colette Tatou",
+            "cargo": "sous-chef",
+            "email": "colet@hotmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(64) 98050-3543",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "f",
+            "salario": 3500,
+            "cpf": "23359517423",
+            "bancoHoras": 0,
+            "nome": "Julia Paixão",
+            "cargo": "auxiliar-cozinha",
+            "email": "julia@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(48) 98519-1555",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "71707589119",
+            "bancoHoras": 0,
+            "nome": "Flavio Hernandes",
+            "cargo": "cozinha",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 88
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(37)97466-5631",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "25075862900",
+            "bancoHoras": 0,
+            "nome": "Alfredo Linguini",
+            "cargo": "limpeza",
+            "email": "anthoe@gmail.com",
+            "cargaHoraria": 88
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(96) 97156-2842",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "74565268264",
+            "bancoHoras": 0,
+            "nome": "Goro Kodama",
+            "cargo": "cozinha",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(63)97648-6114",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "16462226366",
+            "bancoHoras": 0,
+            "nome": "Marcelo Cruz",
+            "cargo": "cozinha",
+            "email": "marcelocruz@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(96) 99968-4718",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "53251408259",
+            "bancoHoras": 0,
+            "nome": "Alisson Navaz",
+            "cargo": "cozinha",
+            "email": "navaz@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(96)97551-1655",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "f",
+            "salario": 2000,
+            "cpf": "62136382292",
+            "bancoHoras": 0,
+            "nome": "Cassia Neves",
+            "cargo": "cozinha",
+            "email": "cassia@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(27) 97484-7366",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "46462542985",
+            "bancoHoras": 0,
+            "nome": "Rodolfo",
+            "cargo": "administração",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(53)99776-6283",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "78706252800",
+            "bancoHoras": 0,
+            "nome": "Igor Costa",
+            "cargo": "atendimento",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(82) 98354-9263",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "f",
+            "salario": 2000,
+            "cpf": "72182321403",
+            "bancoHoras": 0,
+            "nome": "Maria Lopes",
+            "cargo": "atendimento",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(83) 96973-7755",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "36288164402",
+            "bancoHoras": 2000,
+            "nome": "Pedro Pereira",
+            "cargo": "atendimento",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 132
+        },
+        {
+            "senha": "pass1234",
+            "telefone": "(15) 98915-1633",
+            "ponto": "2022-09-02T12:45:55.948353600",
+            "genero": "m",
+            "salario": 2000,
+            "cpf": "11361776986",
+            "bancoHoras": 0,
+            "nome": "Fabricio Xavier",
+            "cargo": "cozinha",
+            "email": "fulano@gmail.com",
+            "cargaHoraria": 132
+        }
+    ]
+}

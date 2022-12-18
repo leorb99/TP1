@@ -1,0 +1,3 @@
+Alguns exercícios da disciplina Tópicos de Programação 1, que tinha como foco a programação orientada à objetos.\
+A linguagem da disciplina era Java, mas alguns (poucos) exercícios também tinham opção do C++.\
+O projeto final foi feito em Java utilizando o recurso de JFrame do Netbeans. Isso facilitou o desenvolvimento, mas tirou um pouco do controle sobre o projeto. Futuramente penso em refazer sem usar a ferramenta do Netbeans.
